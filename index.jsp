@@ -1,0 +1,232 @@
+<%@ include file="inc/headerScript.jsp" %>
+<%@ include file="inc/header.jsp" %>
+<link rel="stylesheet" href="resource/css/main/main.css">
+<!-- #container -->
+<div id="container">
+	<h2 id="contentAnchor">콘텐츠 영역</h2>
+	
+	<ul class="pro_section_wrap">
+		<li class="pro_section pro_section01 ">
+			<div class="inner">
+				<div class="pro_caption">
+					<h3>Start</h3>
+					<p>박스를 올바르게<br /> 분리배출 해보아요!</p>
+				</div>
+				<ul class="btn_langs move mov_spd01">
+					<li class="active"><a href="#">Eng</a></li>
+					<li><a href="#">Kor</a></li>
+				</ul>
+				<ul class="langs_wrap move mov_spd02">
+					<li class="active">
+						COVID-19 has changed our everyday experience in every way. The growth rate of <br />
+						disposable usage not only caused another environmental issue, but added more <br />
+						recycling and sortings in our daily lives. And we all know that this environmental <br />
+						issue won't end even after the pandemic. This is why we came up with the <br />
+						"Proper Recycling" project. <br />
+						<br />
+						The first product of our "Proper Recycling" project is [ADD+GE]. The concept of <br />
+						[ADD+GE] is the denovation of "the most wanted tool for simple recycling". <br />
+						Three key features of [ADD+GE] are the followings: (1) a SEALING KNIFE for <br />
+						disassembling, (2) a BOX HOOK to hold the boxes together, and (3) a HANDLE to carry<br /> 
+						them easily. [ADD+GE] will help you "recycle properly" for yourself, and the future.
+					</li>
+					<li>
+						코로나로 인해 사회적으로 재조명 된 분리배출의 문제가 다시 세계적으로 이슈화 되면서, <br/> 
+						일회용품 사용에 대한 부담 역시 증가했습니다. 펜데믹 이후에도 해결 되지 않을 환경 <br/> 
+						문제에 대한 고민으로 출발하여 '올바른 분리수거를 실천하기 위한 방법’ 프로젝트를 <br/> 
+						기획하게 되었습니다.<br/> 
+						<br/> 
+						‘올바른 분리수거를 실천하기 위한 방법’ 프로젝트에서 선보이는 첫 번째 제품 [ADD+GE]는 <br/> 
+						언택트 소비의 증가로 인한 종이 쓰레기/박스 배출을 올바르게 수행하기 위한 제품으로 <br/> 
+						1. 분해 후 배출이 가능하도록 돕는 실링나이프(SEALING KNIFE), 2. 분해 된 박스의 적재가<br/>  
+						가능하도록 돕는 박스후크(BOX HOOK)와 3. 적재된 박스의 운반을 편리하게 돕는 <br/> 
+						손잡이(HANDLE)로 구성되어 분리수거 과정에 필요한 기능을 컴팩트하게 담아냈으며, <br/> 
+						각 요소들의 소재와 형상을 조화롭게 디자인하여 사용자가 '실천하기 쉬운, 가지고 싶은 <br/> 
+						분리수거 용품'으로 재탄생시켰습니다.
+					</li>
+				</ul>
+
+				<div class="swing move mov_spd03">
+					<p class="scroll_img"><em></em></p>
+					<p class="scroll_txt">SCROLL DOWN</p>
+				</div>
+
+			</div>
+		</li>
+		<li class="pro_section pro_section02 bg_blue">
+			<div class="inner">
+				<div class="pro_caption">
+					<h3>Step 01</h3>
+					<p>실링 나이프를 이용해<br /> 박스를 해체해주세요!</p>
+				</div>
+				<div class="img_box mov_spd01">
+					<p class="img_cut mov_spd02">
+						<em class="img_t"></em>
+					</p>
+					<p class="img_ing mov_spd02">
+						<em></em><em></em><em></em><em></em><em></em><em></em><em></em><em></em><em></em><em></em><span></span>
+					</p>
+					<span class="con"></span>
+					<span class="con con_01"></span>
+					<em class="shadow"></em>
+				</div>
+			</div>
+		</li>
+		<li class="pro_section pro_section03 bg_blue">
+			<div class="inner">
+				<div class="pro_caption">
+					<h3>Step 02</h3>
+					<p>박스 후크에<br/> 박스를 적재 해주세요!</p>
+				</div>
+				<div class="mov_wrap">
+					<div class="img_box02 mov_spd02">
+						<p class="img_hd"></p>
+						<span class="con"></span><em class="shadow"></em>
+					</div>
+					<div class="img_box03">
+						<span class="con"></span><em class="shadow"></em>
+					</div>
+					<div class="img_box04">
+						<em class="img_t"></em>
+						<span class="con"></span><em class="shadow"></em>
+					</div>
+					<p class="img_ing mov_spd01">
+						<em></em><em></em><em></em><em></em><em></em><em></em><em></em><em></em><em></em><em></em><span></span>
+					</p>
+				</div>
+			</div>
+		</li>
+		<li class="pro_section pro_section04 bg_blue">
+			<div class="inner">
+				<div class="pro_caption">
+					<h3>Step 03</h3>
+					<p>손잡이를 잡고<br /> 분리 배출 장소로 이동해주세요</p>
+				</div>
+				<div class="mov_wrap">
+					<div class="img_end">
+						<em class="img_t"></em>	
+					</div>
+					<div class="img_box04 mov_spd02">
+						<p class="img_hd"></p>
+						<span class="con"></span><em class="shadow"></em>
+					</div>
+					<p class="img_ing mov_spd01">
+						<em></em><em></em><em></em><em></em><em></em><em></em><em></em><em></em><em></em><em></em><span></span>
+					</p>
+				</div>
+			</div>
+		</li>
+		<li class="pro_section pro_section05">
+			<div class="inner">
+				<div class="pro_caption">
+					<h3>Finsh</h3>
+					<p>박스를 올바르게<br /> 분리배출 완료했어요!</p>
+				</div>
+				<img src="resource/images/com/last_img.png" />
+			</div>
+		</li>
+	</ul>
+	<div class="inner" style="position:relative;">
+		<div class="pro_control">
+			<p class="pro_counter"><b>1</b><b>5</b></p>
+			<ul class="pro_slide_btn">
+				<li><a href="#" class="prev" title="이전"></a></li>
+				<li><a href="#" class="next" title="다음"></a></li>
+			</ul>
+		</div>
+	</div>
+	
+	
+</div>
+<script>
+	$(document).ready(function(){
+		//slide 
+		const proSlider =$('.pro_section_wrap');
+		const proSliderCounter =$('.pro_counter');
+		const proSliderLnt = proSlider.find('div').length;
+
+		proSlider.slick({
+			slide:'li',
+			slidesToShow:1,
+			slidesToScroll:1,
+			initialSlide : 0,
+			vertical : true,
+			verticalSwiping:true,
+			swipeToSlide: true,
+			draggable : true,
+			infinite : false,
+			arrows : true,
+			prevArrow: $('.pro_slide_btn .prev'), 
+	        nextArrow: $('.pro_slide_btn .next'),
+			speed : 500
+		});
+		
+		//slide counter
+		//proSliderCounter.html('<b>' + 1 + '</b>' + '<b>' + proSliderLnt + '</b>');
+		
+		proSlider.on('init reInit afterChange', function(event, slick, currentSlide, nextSlide){
+			//currentSlide is undefined on init -- set it to 0 in this case (currentSlide is 0 based)
+			var i = (currentSlide ? currentSlide : 0) + 1;
+			let index = $('.pro_section.slick-active').index();
+			$('.pro_section').eq(index).removeClass('motion');
+			proSliderCounter.html('<b>' + i + '</b>' + '<b>' + slick.slideCount + '</b>');
+			if($('.pro_section.slick-active').hasClass('bg_blue')){
+				$('body').addClass('on');
+				console.log('blue');
+								
+			}else{
+				$('body').removeClass('on');
+				console.log('wheight');
+			}
+			
+		});
+
+		proSlider.on('init reInit beforeChange', function(event, slick, currentSlide, nextSlide){
+			let index = $('.pro_section.slick-active').index();
+			$('.pro_section').addClass('motion');
+			$('.pro_section').eq(index + 1).removeClass('motion');
+			$('.pro_section').eq(index - 1).removeClass('motion');
+		});
+
+
+		// slide wheel event
+		proSlider.on('wheel', (function(e) {
+		  e.preventDefault();
+		  if (e.originalEvent.deltaY < 0) {
+			 $(this).slick('slickPrev');
+		  } else {
+			 $(this).slick('slickNext');
+			
+		  }
+		}));
+
+
+		//section 01
+		//btn lang
+		const btnLang = $('.btn_langs a'); //btn
+		const listLang = $('.langs_wrap li'); //list
+		btnLang.on('click',function(){
+			var btnLangInx = $(this).parent().index();
+			if(btnLang.parent('li').eq(btnLangInx).hasClass('active') == false){
+				//console.log(btnLangInx);
+				btnLang.parent('li').removeClass('active');
+				btnLang.parent('li').eq(btnLangInx).addClass('active');
+				listLang.removeClass('active');
+				listLang.eq(btnLangInx).addClass('active');
+			}
+		});
+
+		//
+		$('header .logo').on('click',function(){
+			proSlider.slick('goTo',0);
+		});
+
+		
+
+	});
+
+
+</script>
+
+<!-- // #container -->
+<%@ include file="inc/footer.jsp" %>
