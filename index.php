@@ -1,4 +1,5 @@
-<%@ include file="inc/headerScript.jsp" %>
+
+<?php include "inc/headerScript.jsp"; ?>
 <%@ include file="inc/header.jsp" %>
 <link rel="stylesheet" href="resource/css/main/main.css">
 <!-- #container -->
