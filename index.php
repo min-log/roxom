@@ -1,6 +1,6 @@
 
-<?php include "inc/headerScript.jsp"; ?>
-<%@ include file="inc/header.jsp" %>
+<?php include 'inc/headerScript.php'; ?>
+<?php include 'inc/header.php'; ?>
 <link rel="stylesheet" href="resource/css/main/main.css">
 <!-- #container -->
 <div id="container">
@@ -230,4 +230,4 @@
 </script>
 
 <!-- // #container -->
-<%@ include file="inc/footer.jsp" %>
+<?php include 'inc/footer.php'; ?>
