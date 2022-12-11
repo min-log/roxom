@@ -1,3 +1,3 @@
 # roxom
 
-https://roxom-re.herokuapp.com/
+https://roxom.netlify.app/
